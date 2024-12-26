@@ -54,7 +54,7 @@
 
 ###
 
-<img align="right" height="200" src="https://media1.tenor.com/m/YthOQsbbXScAAAAd/meme-jokowi-jokowi-meme.gif"  />
+<img align="right" height="200" src="https://media1.tenor.com/m/_0WsYiHDa5wAAAAd/github-git.gif"  />
 
 ###
 
