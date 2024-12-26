@@ -2,6 +2,8 @@
 
 ###
 
+![](https://komarev.com/ghpvc/?username=nugrohoas07)
+<img src="https://www.codewars.com/users/eisen07/badges/small" alt="codewars badge"  />
 <p align="left">My name is Nugroho Alif Suhendra and I'm a Web Developer, from Indonesia</p>
 
 ###
