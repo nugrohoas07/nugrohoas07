@@ -3,7 +3,7 @@
 ###
 
 <img src="https://www.codewars.com/users/eisen07/badges/small" alt="codewars badge"  />
-<p align="left">My name is Nugroho Alif Suhendra and I'm a Software Engineer, from Indonesia</p>
+<p align="left">My name is Nugroho Alif Suhendra and I'm a Software Developer from Indonesia</p>
 
 ###
 
@@ -11,7 +11,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning Laravel and Flutter</p>
+<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning Flutter, Laravel and React Native</p>
 
 ###
 
