@@ -3,7 +3,6 @@
 ###
 
 <p align="left">My name is Nugroho Alif Suhendra and I'm a software developer from Indonesia</p>
-<img src="https://www.codewars.com/users/eisen07/badges/small" alt="codewars badge"  />
 
 ###
 
@@ -41,11 +40,14 @@
 
 ###
 
-<h2 align="left">You can contact me on</h2>
+<h2 align="left">Random bullshit</h2>
+<img src="https://www.codewars.com/users/eisen07/badges/small" alt="codewars badge"  />
 
 ###
 
-<br clear="both">
+<h2 align="left">You can contact me on</h2>
+
+###
 
 <div align="left">
   <a href="https://www.facebook.com/NugrohoAlifS" target="_blank">
